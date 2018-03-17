@@ -1,7 +1,7 @@
 {
-  "author": "John Doe",
-  "background_color": "#c0ca33",
-  "description": "PWA template by React/Redux",
+  "author": "Makoto Mori",
+  "background_color": "#212121",
+  "description": "Parfumo is the Vivino for fragrance.",
   "display": "standalone",
   "icons": [
     {
@@ -40,10 +40,10 @@
       "type": "image/png"
     }
   ],
-  "name": "PWA Template",
+  "name": "Parfumo",
   "orientation": "any",
   "scope": "/",
-  "short_name": "PWA-T",
+  "short_name": "Parfumo",
   "start_url": "index.html",
-  "theme_color": "#212121"
+  "theme_color": "#5F4B8B"
 }

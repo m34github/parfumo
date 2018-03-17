@@ -1,0 +1,81 @@
+{
+  "fragrance": {
+    "4802ab54-c3d8-49c2-84cf-bb6cc398517d": {
+      "name": "BLV Pour Homme",
+      "designer": "0d72671f-50fb-422e-9797-e1c5ef54b8b4",
+      "category": "EDT",
+      "note": {
+        "top": [
+          "086ec656-9be7-4be1-861d-208f3c133e80",
+          "69505972-20ac-47cc-b304-a120357b3e71"
+        ],
+        "middle": [
+          "a9df9366-dcd6-4862-b1a5-a0a6c11db04a",
+          "6571be39-2afb-4a33-9d31-91ba75e58d18",
+          "3dadb6c1-b7b0-4603-a6ad-7a9797605e1c"
+        ],
+        "last": [
+          "17e98035-82af-476e-a930-5f25efa6a71f",
+          "f6b3f3b5-82ff-4969-a7e6-9612798ecd0c",
+          "538bd069-d1f4-41cf-941b-b3be6831520f"
+        ]
+      },
+      "img": "https://firebasestorage.googleapis.com/v0/b/parfumo-pwa.appspot.com/o/fragrance%2F4802ab54-c3d8-49c2-84cf-bb6cc398517d%2FBLV-Pour-Homme.jpg?alt=media&token=93b2a79d-5c06-4935-9144-abafc3e6f493",
+      "link": "https://www.fragrantica.com/perfume/Bvlgari/BLV-Pour-Homme-148.html"
+    },
+    "2761a56a-62d7-4ceb-984f-d3c0ada75205": {
+      "name": "Acqua Viva Profumum Roma",
+      "designer": "",
+      "category": "",
+      "note": {
+        "top": [
+        ],
+        "middle": [
+        ],
+        "last": [
+        ]
+      },
+      "img": "https://firebasestorage.googleapis.com/v0/b/parfumo-pwa.appspot.com/o/fragrance%2F2761a56a-62d7-4ceb-984f-d3c0ada75205%2FAcqua-Viva-6966.jpg?alt=media&token=7205e3cc-2af4-4c9b-a1a0-dbacef118df4",
+      "link": "https://www.fragrantica.com/perfume/Profumum-Roma/Acqua-Viva-6966.html"
+    }
+  },
+  "designer": {
+    "0d72671f-50fb-422e-9797-e1c5ef54b8b4": {
+      "name": "Bvlgari"
+    }
+  },
+  "note": {
+    "086ec656-9be7-4be1-861d-208f3c133e80": {
+      "name": "Cardamom",
+      "img": ""
+    },
+    "69505972-20ac-47cc-b304-a120357b3e71": {
+      "name": "Sandalwood",
+      "img": ""
+    },
+    "a9df9366-dcd6-4862-b1a5-a0a6c11db04a": {
+      "name": "Juniper",
+      "img": ""
+    },
+    "6571be39-2afb-4a33-9d31-91ba75e58d18": {
+      "name": "Ginger",
+      "img": ""
+    },
+    "3dadb6c1-b7b0-4603-a6ad-7a9797605e1c": {
+      "name": "Galanda",
+      "img": ""
+    },
+    "17e98035-82af-476e-a930-5f25efa6a71f": {
+      "name": "Teak Wood",
+      "img": ""
+    },
+    "f6b3f3b5-82ff-4969-a7e6-9612798ecd0c": {
+      "name": "Tobacco Blossom",
+      "img": ""
+    },
+    "538bd069-d1f4-41cf-941b-b3be6831520f": {
+      "name": "Green Leaves",
+      "img": ""
+    }
+  }
+}
