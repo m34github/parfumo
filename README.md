@@ -1,2 +1,2 @@
-# react-redux-pwa-template
-Template for PWA by React/Redux
+# parfumo
+Parfumo is the [Vivino](https://www.vivino.com/) for fragrance.
