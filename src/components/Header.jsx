@@ -53,7 +53,7 @@ class Header extends React.Component {
     return (
       <section>
         <AppBar
-          title="PWA Template"
+          title="Parfumo"
           titleStyle={header.title}
           iconElementLeft={this.state.leftIcon}
           iconElementRight={this.state.rightIcon}
@@ -64,9 +64,15 @@ class Header extends React.Component {
 }
 
 Header.propTypes = {
-  history: PropTypes.func.isRequired,
-  leftIcon: PropTypes.string.isRequired,
-  rightIcon: PropTypes.string.isRequired
+  history: PropTypes.object,
+  leftIcon: PropTypes.string,
+  rightIcon: PropTypes.string
+};
+
+Header.defaultProps = {
+  history: null,
+  leftIcon: null,
+  rightIcon: null
 };
 
 export default withRouter(Header);

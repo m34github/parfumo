@@ -1,5 +1,6 @@
 {
   "projects": {
-    "staging": "react-redux-pwa-template"
+    "staging": "react-redux-pwa-template",
+    "default": "parfumo-pwa"
   }
 }

@@ -7,7 +7,7 @@ self.addEventListener('install', (event) => {
   console.log('install');
   event.waitUntil(
     caches.open(CACHE_NAME).then((cache) => {
-      // return cache.addAll(urlsToCache);
+      return cache.addAll(urlsToCache);
     })
   );
 });

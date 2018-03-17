@@ -1,16 +1,16 @@
 import axios from 'axios';
 
-export const GET_USER_INFO = 'GET_USER_INFO';
+export const GET_FRAGRANCE = 'GET_FRAGRANCE';
 
 export const action = {
-  getUserInfo: () => {
+  getFragrance: () => {
     return (dispatch, getState) => {
-      axios.get('https://randomuser.me/api')
+      axios.get('/assets/data/fragrance-sample.json')
         .then((res) => {
           dispatch({
-            type: GET_USER_INFO,
+            type: GET_FRAGRANCE,
             payload: {
-              user: res.data.results[0]
+              fragrance: res.data
             },
             meta: {
               isLoaded: true

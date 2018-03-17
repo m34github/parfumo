@@ -1,7 +1,7 @@
 import { colors } from 'material-ui/styles';
 
-export const primary = colors.grey900;
-export const secondary = colors.lime600;
+export const primary = '#5F4B8B';
+export const secondary = '#CA4C62';
 
 export const sampleTheme = {
   palette: {
@@ -13,21 +13,6 @@ export const sampleTheme = {
 export const common = {
   main: {
     padding: 16
-  }
-};
-
-export const header = {
-  title: {
-    textAlign: 'center'
-  }
-};
-
-export const user = {
-  avatar: {
-    paddingTop: 16,
-    display: 'flex',
-    justifyContent: 'center',
-    alignItems: 'center'
   },
   progress: {
     height: window.innerHeight,
@@ -35,5 +20,11 @@ export const user = {
     display: 'flex',
     justifyContent: 'center',
     alignItems: 'center'
+  }
+};
+
+export const header = {
+  title: {
+    textAlign: 'center'
   }
 };
